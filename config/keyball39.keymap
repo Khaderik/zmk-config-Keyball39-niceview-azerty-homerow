@@ -126,7 +126,7 @@
             label = "NAVI";
             bindings = <
 &kp C_BRI_DN       &kp C_VOL_DN         &mt PAGE_UP UP            &kp C_VOL_UP         &kp C_BRI_UP                  &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4
-&kp LCTRL          &mt HOME LEFT_ARROW  &mt PAGE_DOWN PMW3610_CPI_DOWN  &mt END RIGHT_ARROW  &none                         &bt BT_CLR     &none          &none          &none          &bt BT_CLR_ALL
+&kp LCTRL          &mt HOME LEFT_ARROW  &mt PAGE_DOWN DOWN_ARROW  &mt END RIGHT_ARROW  &none                         &bt BT_CLR     &none          &none          &none          &bt BT_CLR_ALL
 &ext_power EP_TOG  &kp C_PREV           &kp C_PP                  &kp C_NEXT           &kp C_MUTE                    &bt BT_DISC 0  &bt BT_DISC 1  &bt BT_DISC 2  &bt BT_DISC 3  &bt BT_DISC 4
 &trans             &trans               &trans                    &trans               &trans        &trans  &trans  &trans                                                      &trans
             >;
