@@ -133,7 +133,7 @@ layers:
   - {h: '5', s: '$$mdi:bluetooth-connect$$'}
   - $$mdi:apple-keyboard-control$$
   - {t: '$$mdi:arrow-left-bold$$', h: HOME}
-  - {t: '$$mdi:arrow-down-bold$$', h: PgDn}
+  - {t: PMW3610 CPI DOWN, h: PgDn}
   - {t: '$$mdi:arrow-right-bold$$', h: END}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - $$mdi:bluetooth-off$$
@@ -172,8 +172,8 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - $$mdi:arrow-left-bold$$
-  - $$mdi:arrow-down-bold$$
-  - $$mdi:arrow-up-bold$$
+  - PMW3610 CPI DOWN
+  - PMW3610 CPI UP
   - $$mdi:arrow-right-bold$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - PgUp
