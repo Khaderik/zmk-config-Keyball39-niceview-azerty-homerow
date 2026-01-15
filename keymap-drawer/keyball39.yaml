@@ -172,8 +172,8 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - $$mdi:arrow-left-bold$$
-  - PMW3610 CPI DOWN
-  - PMW3610 CPI UP
+  - '0x12E7'
+  - '0x12E6'
   - $$mdi:arrow-right-bold$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - PgUp
