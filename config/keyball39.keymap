@@ -7,7 +7,6 @@
 #define SNIPE   6
 
 #include "keys_fr.h"
-#include "trackball_dpi.h"
 #include <behaviors/mouse_keys.dtsi>
 #include <dt-bindings/zmk/mouse.h>
 #include <behaviors.dtsi>
@@ -136,9 +135,9 @@
         mouse_layer {
             label = "MOUSE";
             bindings = <
-&kp N1          &kp N2          &kp N3        &kp N4     &kp N5                  &kp N6         &kp N7     &kp N8     &kp N9     &kp N0
-&kp LEFT_ARROW  &kp PMW3610_CPI_DOWN  &kp PMW3610_CPI_UP  &kp RIGHT  &none                   &kp PAGE_UP    &mkp LCLK  &mkp MCLK  &mkp RCLK  &none
-&none           &none           &none         &none      &none                   &kp PAGE_DOWN  &none      &none      &none      &none
+&trans          &trans         &trans         &trans    &trans                     &trans         &trans     &trans    &trans     &trans
+&trans          &trans          &trans        &trans     &trans                    &kp PAGE_UP    &mkp LCLK  &mkp MCLK  &mkp RCLK  &none
+&trans          &trans          &trans         &trans    &trans                    &kp PAGE_DOWN  &none      &none      &none      &none
 &none           &trans          &trans        &trans     &trans  &trans  &trans  &mo 3                                           &none
             >;
         };
