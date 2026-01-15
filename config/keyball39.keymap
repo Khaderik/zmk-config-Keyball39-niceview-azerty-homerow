@@ -7,6 +7,7 @@
 #define SNIPE   6
 
 #include "keys_fr.h"
+#include "trackball_dpi.h"
 #include <behaviors/mouse_keys.dtsi>
 #include <dt-bindings/zmk/mouse.h>
 #include <behaviors.dtsi>
