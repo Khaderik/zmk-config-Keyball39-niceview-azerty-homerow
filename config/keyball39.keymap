@@ -85,7 +85,7 @@
 
         Gaming_mode {
             bindings = <&tog 7>;
-            key-positions = <1 3 2 0>;
+            key-positions = <33 34 35>;
         };
     };
 
